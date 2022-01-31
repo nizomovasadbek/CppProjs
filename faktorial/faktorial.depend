@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1604124923 source:c:\users\user\desktop\c&c++\proj2\faktorial\main.c
+	<stdio.h>
+	<stdlib.h>
+

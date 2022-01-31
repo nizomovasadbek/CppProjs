@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1598978353 source:c:\users\user\desktop\c&c++\proj2\connection\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"encrypt.h"
+
+1598978006 c:\users\user\desktop\c&c++\proj2\connection\encrypt.h
+

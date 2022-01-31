@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1599471329 source:c:\users\user\desktop\c&c++\proj2\browser\main.c
+	<stdio.h>
+	<stdlib.h>
+
