@@ -5,6 +5,7 @@ using namespace std;
 
 int main()
 {
+    system("color a");
     short a = 0;
     while(true){
         cout << "Dasturdan chiqish uchun -1 ni kiriting!" << endl << endl;
